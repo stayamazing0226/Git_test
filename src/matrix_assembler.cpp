@@ -3,5 +3,6 @@
 Complex EFIE(int M, int N){
 
     double a;
+    double b;
     
 };
